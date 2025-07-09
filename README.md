@@ -9,7 +9,7 @@ I love turning raw data into meaningful insights, building AI-powered apps, and 
 
 ### 🔭 Current Focus
 - 📊 **Data Science** & Machine Learning (Kaggle-ready journey!)
-- 💻 Competitive Programming (DSA in C++)
+- 💻 (DSA in C++)
 - 📱 Android Apps using Java (Learning phase)
 - 🏋️‍♂️ Health & Performance Optimization
 
