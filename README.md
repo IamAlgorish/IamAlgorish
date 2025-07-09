@@ -32,12 +32,6 @@ I love turning raw data into meaningful insights, building AI-powered apps, and 
 </p>
 
 ---
-
-### 🚀 Projects in Progress
-- **📱 GuardianGrid VPN** – Free VPN App using Java & Android Studio  
-- **🤖 FitAI** – AI-powered Personal Gym Trainer App  
-- **📊 Kaggle Projects** – EDA, Machine Learning, NLP, and more  
-- **🎤 Real Talk** – Voice & Video Chat App (WebRTC + Firebase)
 ---
 
 ### 📌 Let's Connect
