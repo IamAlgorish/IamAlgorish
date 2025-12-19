@@ -35,7 +35,7 @@ I love turning raw data into meaningful insights, building AI-powered apps, and 
 ---
 
 ### 📌 Let's Connect
-- 📫 Email: `rihabhjha7@gmail.com`
+- 📫 Email: `rihabhjha766@gmail.com`
 - 🌐 Portfolio (coming soon...)
 - 🧠 Learning on: [Kaggle](https://www.kaggle.com/), [YouTube](https://www.youtube.com/), Udemy, GitHub
 
