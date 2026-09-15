@@ -8,15 +8,6 @@ I enjoy building practical applications, exploring new technologies, and contrib
 
 ---
 
-## 🎓 Education
-
-**B.Tech in Computer Science**
-**Haryana Engineering College**
-*Affiliated with Kurukshetra University*
-2021 – 2025
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -36,31 +27,6 @@ I enjoy building practical applications, exploring new technologies, and contrib
 
 ---
 
-## 🚀 Projects
-
-### 🤖 MEMO-GPT
-
-**Python**
-
-An advanced AI assistant capable of controlling a PC through voice commands.
-
-* Developed voice-based command processing
-* Built computer automation features
-* Implemented voice-driven interaction and control
-
----
-
-### 🐉 DARKIRA
-
-**Java • Android Studio • XML**
-
-An Android voice assistant application featuring a custom interface and personalized interaction.
-
-* Developed voice-based interaction
-* Implemented application command handling
-* Designed a custom Android interface
-
----
 
 ## 🌐 Open Source
 
@@ -71,16 +37,6 @@ Contributed to the **OSINT Framework** by adding **Global Fishing Watch** as a m
 The contribution was reviewed and incorporated into the project's production branch.
 
 ---
-
-## 🧠 DSA
-
-### 200+ Problems Solved
-
-I actively practice **Data Structures & Algorithms** across LeetCode and GeeksforGeeks to improve my problem-solving and algorithmic thinking.
-
-### Areas of Practice
-
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Binary Search` • `Trees` • `Graphs` • `Dynamic Programming`
 
 ### Coding Profiles
 
@@ -94,12 +50,6 @@ I actively practice **Data Structures & Algorithms** across LeetCode and Geeksfo
 </p>
 
 ---
-
-## 📜 Certifications
-
-* **Java + DSA (Alpha)** — Apna College
-* **Python & Pandas** — Kaggle *(Ongoing)*
-
 ---
 
 ## 🏆 Achievements
