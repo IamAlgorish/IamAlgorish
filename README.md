@@ -76,17 +76,6 @@ The contribution was reviewed and incorporated into the project's production bra
   <img src="https://leetcard.jacoblin.cool/IamAlgorish?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
----
-
-## 🎯 What I'm Working On
-
-* Improving my **Data Structures & Algorithms** skills
-* Building practical **Python projects**
-* Strengthening my **software development fundamentals**
-* Exploring **automation and AI-based applications**
-* Contributing to **open-source projects**
-
----
 
 ## 📫 Find Me
 
