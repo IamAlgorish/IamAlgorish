@@ -77,19 +77,6 @@ The contribution was reviewed and incorporated into the project's production bra
 </p>
 
 
-## 📫 Find Me
-
-<p align="left">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/IamAlgorish/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/algo_rish">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</p>
 
 ---
 
